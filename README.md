@@ -24,4 +24,4 @@ Text editor (e.g., Visual Studio Code, Sublime Text).
 Web browser for testing (e.g., Chrome, Firefox).
 Basic knowledge of HTML, CSS, and JavaScript.
 Plan your website structure and layout by sketching it on paper or using wireframing tools.Create the HTML structure for each page (Home, Projects, Contact).Add content and basic styling using CSS to make it visually appealing.Implement the navigation bar (optional).For the contact form, you can use basic HTML form elements
-# NatureBoy
+# Nature_
