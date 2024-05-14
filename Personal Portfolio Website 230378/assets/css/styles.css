@@ -218,67 +218,6 @@ header{
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-/* =====================================  new website link css  ==================================== */
-#headfootnew {
-	height: 52%;
-	width: 100%;
-	min-height: 45vh;
-	background: #09030e;
-	background: radial-gradient(circle at 52.1% -29.6%, #901169 0%, #330085 100.2%);
-	text-align: center;
-	color: #fff;
-	z-index: 1;
-}
-
-.hfn h1{
-	font-family: 'Courgette', cursive;
-	font-size: 78px;
-	margin: 30px 0 0 0;
-}
-
-.hfn .c,.ct{
-	display: inline;
-	background: #210130;
-	color: #fff;
-	border: 1px solid #fff;
-	padding: 11px 28px;
-	line-height: 1.5;
-	font-size: 17px;
-	font-weight: 550;
-	border-radius: 30px;
-	text-transform: uppercase;
-	transition: all 0.3s ease;
-}
-
-.hfn .c:hover {
-	background: transparent;
-	font-size: 18px;
-	font-weight: 700;
-	padding: 14px 34px;
-	border: 2px solid #0ff;
-	transform: translateX(10px);
-	color:#0ff;
-}
-
-.hfn .ct{
-	background: transparent;
-	border: 1px solid #0ff;
-	margin-left: 20px;
-	color:#0ff;
-}
-
-.hfn .ct:hover {
-	background: #210130;
-	font-size: 18px;
-	font-weight: 700;
-	padding: 14px 34px;
-	border: 2px solid #fff;
-	transform: translateX(10px);
-	color:#fff;
-}
-
-/*------------------------------------------------------------------------------------------------------------*/
-
 #about-me {
 	height: 100%;
 	width: 100%;
