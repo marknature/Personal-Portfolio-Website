@@ -34,6 +34,9 @@ Add a navigation bar to easily switch between pages.<br>
 ### Styling:
 Use CSS to make your website visually appealing with consistent fonts, colors, and layout.<br>
 
+### Figma:
+Sitmap: https://www.figma.com/design/x0un93gd8PDCVAwZAt4Xbc/2023-Portfolio?node-id=71-217&t=kpxQSANeESBrSK9H-1
+
 ### Interactive Elements:
 Add some simple JavaScript effects, like smooth scrolling to anchor links or image hover effects.<br>
 Text editor (e.g., Visual Studio Code, Sublime Text).<br>
