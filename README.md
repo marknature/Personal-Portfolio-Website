@@ -36,6 +36,7 @@ Use CSS to make your website visually appealing with consistent fonts, colors, a
 
 ### Figma:
 Sitmap: https://www.figma.com/design/x0un93gd8PDCVAwZAt4Xbc/2023-Portfolio?node-id=71-217&t=kpxQSANeESBrSK9H-1
+Design: https://www.figma.com/design/x0un93gd8PDCVAwZAt4Xbc/2023-Portfolio?node-id=18-88&t=kpxQSANeESBrSK9H-1
 
 ### Interactive Elements:
 Add some simple JavaScript effects, like smooth scrolling to anchor links or image hover effects.<br>
